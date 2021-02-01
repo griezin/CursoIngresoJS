@@ -3,6 +3,6 @@ Al presionar el  botón,
 se debe mostrar un mensaje como el siguiente "Esto funciona de maravilla"*/
 function mostrar()
 {
-	alert("Hola , ya esta!*");
+	alert("Otra vez , lo mismo pero prueba 550");
 }
 
